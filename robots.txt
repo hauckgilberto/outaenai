@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iesheev.deleteyour.blog/sitemap.xml
